@@ -1330,7 +1330,7 @@ on join:
 		send ""
 		send ""
 		send "&6&lYou are currently incognito"
-		send "&eThis means you are invisible to all excepet for those who are"
+		send "&eThis means you are invisible to all except for those who are"
 		send "&4&lAdmin&f+"
 		send ""
 		send ""
